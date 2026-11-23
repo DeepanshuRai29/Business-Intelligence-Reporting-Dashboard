@@ -16,10 +16,8 @@ This dashboard was engineered to answer specific stakeholder inquiries, includin
 * **Data Modeling:** Established relational links between dimension and fact tables to ensure accurate cross-filtering.
 * **Power Query:** Cleaned and transformed the raw operational data prior to loading.
 
-## 📊 Dashboard Previews
-*(The dashboard features dynamic slicers, conditional formatting, and customized tooltip data to allow stakeholders to drill down into the metrics).*
 
-![Dashboard Preview 1](Dashboard-1.png)
-![Dashboard Preview 2](Dashboard_2.png)
 
-*To view the raw project requirements, please see the attached `P-BI -project-1.pptx` file in this repository.*
+
+
+
